@@ -1,0 +1,36 @@
+.corpo{
+  padding-top: 3rem;
+  min-height: 100vh;
+  width: 100%;
+  background-color: #dcdcdc5b;
+}
+
+form{
+  width: 500px;
+  margin: 30px auto;
+  text-align: center;
+
+ 
+}
+
+form input{
+  margin-bottom: 5px;
+}
+
+form input[type='button']{
+  margin: 10px 10px 0px 0px ;
+}
+.table{
+  width: 80rem;
+  margin-left: 15rem;
+}
+
+.logocb{
+ position: relative;
+ margin-top: -5rem;
+}
+
+.mascotecb{
+
+  margin: 1rem 10rem -10rem -55rem ;
+}
